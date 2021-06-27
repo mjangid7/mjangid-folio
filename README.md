@@ -5,6 +5,5 @@
 - 📫 How to reach me say Hi @mukund.jangid95@gmail.com
 
 <!---
-mjangid-repo/mjangid-repo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+This is a glance of my work which I could put on public opensource. The private repositories are out of the scope for professional network exhange, Thanks!
 --->
